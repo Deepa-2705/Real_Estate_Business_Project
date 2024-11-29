@@ -1,2 +1,4 @@
-RealStateBusiness.egg-info/
-realstate/
+RealEstateBusiness.egg-info/
+realestate/
+dist/
+build/
