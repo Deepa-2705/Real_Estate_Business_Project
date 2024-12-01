@@ -4,4 +4,6 @@ scikit-learn
 matplotlib
 seaborn
 ipykernel
+pandas_profiling
+shap
 # -e .
