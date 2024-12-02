@@ -16,7 +16,7 @@ def get_requirements(file_paths:str)->List[str]:
 
 
 setup(
-    name='RealStateBusiness',
+    name='RealEstateBusiness',
     version='0.0.1',
     author='Deepa Gupta',
     email="deepagupta35795@gmail.com",
